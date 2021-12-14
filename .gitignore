@@ -1,0 +1,7 @@
+tcp_none.ko
+tcp_none.o
+modules.order
+Module.symvers
+tcp_none.mod
+tcp_none.mod.*
+.*.cmd
